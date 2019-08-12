@@ -1,8 +1,8 @@
 ---
 title: Foundation of New Dialog
 subtitle: >-
-  New Dialog creates technologies to help people better discuss complex topics
-  online or in physical spaces.
+  FOND develops services to help people better discuss hot complex topics online
+  or in physical spaces.
 image: /img/wadult-bar-blur-696218.jpg
 blurb:
   heading: Who are we?
@@ -27,16 +27,27 @@ products:
   - image: /img/illustrations-coffee-gear.svg
     link: 'https://conf.newdialog.org'
     text: >-
-      We offer a small, but carefully curated selection of brewing gear and
-      tools for every taste and experience level. No matter if you roast your
-      own beans or just bought your first french press, you’ll find a gadget to
-      fall in love with in our shop.
+      DebateConference is a service that allows people to get matched into
+      diverse physical groups to have conversations around their differences.
+      Groups are matches based off a few simple questions by the moderator that
+      maximumly intermixes members.
 values:
   heading: Our values
   text: >-
-    Coffee is an amazing part of human culture but it has a dark side too – one
-    of colonialism and mindless abuse of natural resources and human lives. We
-    want to turn this around and return the coffee trade to the drink’s
-    exhilarating, empowering and unifying nature.
+    Foundation for New Dialog is focused on ensuring everyone is able to come to
+    the table to express their views, while also balancing the voices of the
+    minority. We build social tools while trying to be mindful of echo chambers,
+    the harm of toxic behavior, and unjust moderation or control. It's the
+    conditions to solve these problems are:
+
+
+    * Have people that see the problem from multiple perspectives,
+
+    * Bring them together in which they have relationships of accountability to
+    each other,
+
+    * Within a zone in which they can talk privately,
+
+    * They are reinforced with a reward for reaching a solution
 ---
 
