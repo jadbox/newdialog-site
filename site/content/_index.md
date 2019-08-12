@@ -17,16 +17,13 @@ intro:
     We have several upcoming projects in the works and partnerships forming.
     Stay turned for more information!
 products:
-  - image: img/illustrations-coffee.svg
+  - image: /img/icons-512_sq.png
     link: 'https://www.dinnertable.chat'
     text: >-
       In today’s polarizing environment it can be hard to have thoughtful
       discussions between different ideologies. Dinnertable.chat is a matchmaker
       for people with political differences to find common ground through live
       conversations.
-
-
-      <https://www.dinnertable.chat>
   - image: /img/illustrations-coffee-gear.svg
     link: 'https://conf.newdialog.org'
     text: >-
