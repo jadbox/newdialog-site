@@ -18,20 +18,22 @@ intro:
     Stay turned for more information!
 products:
   - image: img/illustrations-coffee.svg
+    link: 'https://www.dinnertable.chat'
     text: >-
       In today’s polarizing environment it can be hard to have thoughtful
-      discussions between different ideologies.
-      Dinnertable.chat is a matchmaker for
-      people with political differences to find common ground through live
+      discussions between different ideologies. Dinnertable.chat is a matchmaker
+      for people with political differences to find common ground through live
       conversations.
-    link: https://www.dinnertable.chat
+
+
+      <https://www.dinnertable.chat>
   - image: /img/illustrations-coffee-gear.svg
+    link: 'https://conf.newdialog.org'
     text: >-
       We offer a small, but carefully curated selection of brewing gear and
       tools for every taste and experience level. No matter if you roast your
       own beans or just bought your first french press, you’ll find a gadget to
       fall in love with in our shop.
-    link: https://conf.newdialog.org
 values:
   heading: Our values
   text: >-
