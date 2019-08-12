@@ -3,29 +3,27 @@ title: Foundation of New Dialog
 subtitle: >-
   New Dialog creates technologies to help people better discuss complex topics
   online or in physical spaces.
-image: /img/home-jumbotron.jpg
+image: /img/wadult-bar-blur-696218.jpg
 blurb:
-  heading: Why Kaldi?
+  heading: Who are we?
   text: >-
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    The term “New Dialog” signifies that our collective voices can unlock the
+    secrets to reaching a better social and political way of life, free from the
+    constraints of echo chambers or harmful conflict. Our foundation seeks to
+    build modern platforms and physical spaces to engage in meaningful dialog.
 intro:
-  heading: What we offer
+  heading: Our Projects
   text: >-
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
+    We have several upcoming projects in the works and partnerships forming.
+    Stay turned for more information!
 products:
   - image: img/illustrations-coffee.svg
     text: >-
-      We sell green and roasted coffee beans that are sourced directly from
-      independent farmers and farm cooperatives. We’re proud to offer a variety
-      of coffee beans grown with great care for the environment and local
-      communities. Check our post or contact us directly for current
-      availability.
+      In today’s polarizing environment it can be hard to have thoughtful
+      discussions between different ideologies.
+      [Dinnertable.chat](https://www.dinnertable.chat) is a matchmaker for
+      people with political differences to find common ground through live
+      conversations.
   - image: /img/illustrations-coffee-gear.svg
     text: >-
       We offer a small, but carefully curated selection of brewing gear and
